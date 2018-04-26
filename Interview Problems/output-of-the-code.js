@@ -1,3 +1,8 @@
+/*
+
+Problems from:
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question/blob/master/README.md
+*/
 
 /*
 -------------------------------------------------------------------------------------------------------------

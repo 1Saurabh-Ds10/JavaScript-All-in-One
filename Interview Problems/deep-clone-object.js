@@ -4,7 +4,8 @@ Deep Clone Object
 _________________
 
 Copy every properties and nested objects to another object
-
+From:
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Question/blob/master/README.md
 --------------------------------------------------------------------------------------------------------------
 
 */
